@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Python Developer 👩‍💻</h3>
 
 <div align="center">
-    <img alt="coding" width="800" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" />
+    <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" />
 </div>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ---
 
-- 👩‍🎓 **Education**: Master's in Information Technology, Kennesaw State University
-- 👩‍💻 **Experience**: 2 years of developing scalable web applications as a Full-Stack Developer
-- 🤝 **Availability**: Open to roles like Full-Stack Python Developer, Front-End Developer, Back-End Developer, Python Developer
+- 👩‍🎓 Master's in Information Technology, Kennesaw State University
+- 👩‍💻 2 years of developing scalable web applications as a Full-Stack Developer
+- 🤝 Open to roles like Full-Stack Python Developer, Front-End Developer, Back-End Developer, Python Developer
 - 📍 **Location**: Georgia, 30067, USA
 - 📚 **Skills**: Python, HTML, CSS, JavaScript, MongoDB, Flask
 - 📫 **Contact**: [vmadasu23@gmail.com](mailto:vmadasu23@gmail.com)
