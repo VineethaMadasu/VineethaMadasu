@@ -14,8 +14,8 @@
 - 👩‍🎓 Master's in Information Technology, Kennesaw State University
 - 👩‍💻 2 years of developing scalable web applications as a Full-Stack Developer
 - 🤝 Open to roles like Full-Stack Python Developer, Front-End Developer, Back-End Developer, Python Developer
-- 📍 **Location**: Georgia, 30067, USA
 - 📚 **Skills**: Python, HTML, CSS, JavaScript, MongoDB, Flask
+- 📍 **Location**: Georgia, 30067, USA
 - 📫 **Contact**: [vmadasu23@gmail.com](mailto:vmadasu23@gmail.com)
 
 ---
