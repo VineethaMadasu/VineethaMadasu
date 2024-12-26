@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vineetha Madasu</h1>
+<h1 align="center">
+  🌟 <span style="color:#ff6b6b; font-family:Arial;">Hi 👋, I'm Vineetha Madasu</span> 🌟
+</h1>
 <h3 align="center">A passionate Full-Stack Python Developer 👩‍💻</h3>
 
 <div align="center">
