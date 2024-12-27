@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Vineetha Madasu
+  Hey there👋, I'm Vineetha Madasu
 </h1>
 <h3 align="center"> Full-Stack Python Developer 👩‍💻</h3>
 <p align="left">
