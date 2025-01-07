@@ -45,6 +45,3 @@
 
 
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetha346" alt="vineetha346" />
-</p>
