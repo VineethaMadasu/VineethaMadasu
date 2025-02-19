@@ -14,7 +14,7 @@
 - 👩‍🎓 Master's in Information Technology, Kennesaw State University
 - 📚 **Skills**: Python, HTML, CSS, JavaScript, MongoDB, Flask
 - 📍 **Location**: Georgia, 30067, USA
-- 📫 **Contact**: [vmadasu23@gmail.com](mailto:vmadasu23@gmail.com)
+- 📫 **Contact**: [vmadasu20@gmail.com](mailto:vmadasu20@gmail.com)
 
 <h3 align="center"></h3>
 <p align="center">
