@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey there👋, I'm Vineetha Madasu
 </h1>
-<h3 align="center"> Full-Stack Developer 👩‍💻</h3>
+<h3 align="center"> Software Developer 👩‍💻</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=vineetha346&label=Profile%20views&color=0e75b6&style=flat" alt="vineetha346" />
 <p align="right" class="fade-in">
@@ -12,7 +12,7 @@
 - 🤝 Open to full time roles as Software Developer, Full-Stack Developer, Front-End Developer, Back-End Developer, Python Developer
 - 👩‍💻 2 years of developing scalable web applications as a Full-Stack Developer
 - 👩‍🎓 Master's in Information Technology, Kennesaw State University
-- 📚 **Skills**: Python, Object-Oriented Programming, DSA, CSS, JavaScript, SQL, Flask
+- 📚 **Skills**: Python, Java, Object-Oriented Programming, DSA, HTML&CSS, JavaScript, SQL, Flask
 - 📍 **Location**: Georgia, 30067, USA
 - 📫 **Contact**: [vmadasu20@gmail.com](mailto:vmadasu20@gmail.com)
 
